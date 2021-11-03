@@ -28,6 +28,8 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          blogSidebarTitle: 'A to Z',
+          blogSidebarCount: 'ALL',
           // Please change this to your repo.
           editUrl:
             'https://github.com/emresurmeli/Polkadot-A-to-Z',
