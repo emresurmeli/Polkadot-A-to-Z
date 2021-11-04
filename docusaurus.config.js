@@ -59,7 +59,7 @@ const config = {
           // },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus/edit/main/website/',
+            href: 'https://github.com/emresurmeli/Polkadot-A-to-Z',
             label: 'GitHub',
             position: 'right',
           },
