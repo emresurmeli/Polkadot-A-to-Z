@@ -9,12 +9,13 @@ const config = {
   title: 'Polkadot A to Z',
   tagline: 'Explaining Polkadot concepts in a "explain to me like I am 5" (ELI5) format',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  baseUrl: '/polkadot-a-to-z/blog/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Web3 Foundation', // Usually your GitHub org/user name.
-  projectName: 'Polkadot A to Z', // Usually your repo name.
+  organizationName: 'emresurmeli', // Usually your GitHub org/user name.
+  projectName: 'Polkadot A to Z', // Usually your repo name.,
+
 
   presets: [
     [
