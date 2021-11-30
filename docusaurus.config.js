@@ -8,13 +8,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Polkadot A to Z',
   tagline: 'Explaining Polkadot concepts in a "explain to me like I am 5" (ELI5) format',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/polkadot-a-to-z/blog/',
+  url: 'https://emresurmeli.github.io',
+  baseUrl: '/blog/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'emresurmeli', // Usually your GitHub org/user name.
-  projectName: 'Polkadot A to Z', // Usually your repo name.,
+  projectName: 'Polkadot A to Z', // Usually your repo name.
+
 
 
   presets: [
