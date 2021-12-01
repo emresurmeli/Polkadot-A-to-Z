@@ -12,6 +12,7 @@ const config = {
   baseUrl: '/Polkadot-A-to-Z/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+  trailingSlash: false,
   favicon: 'img/favicon.ico',
   organizationName: 'emresurmeli', // Usually your GitHub org/user name.
   projectName: 'Polkadot A to Z', // Usually your repo name.
