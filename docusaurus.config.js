@@ -9,13 +9,13 @@ const config = {
   title: 'Polkadot A to Z',
   tagline: 'Explaining Polkadot concepts in a "explain to me like I am 5" (ELI5) format',
   url: 'https://emresurmeli.github.io',
-  baseUrl: '/',
+  baseUrl: '/Polkadot-A-to-Z/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   trailingSlash: false,
   favicon: 'img/favicon.ico',
   organizationName: 'emresurmeli', // Usually your GitHub org/user name.
-  projectName: 'Polkadot A to Z', // Usually your repo name.
+  projectName: 'Polkadot-A-to-Z', // Usually your repo name.
 
 
 
