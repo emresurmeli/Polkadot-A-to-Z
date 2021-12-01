@@ -9,7 +9,7 @@ const config = {
   title: 'Polkadot A to Z',
   tagline: 'Explaining Polkadot concepts in a "explain to me like I am 5" (ELI5) format',
   url: 'https://emresurmeli.github.io',
-  baseUrl: '/Polkadot-A-to-Z/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   trailingSlash: false,
