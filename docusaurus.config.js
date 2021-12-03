@@ -51,7 +51,7 @@ const config = {
         title: 'Polkadot A to Z',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/polkadot-symbol-svgs/Polkadot_symbol_white pink.svg',
         },
         items: [
           // {
