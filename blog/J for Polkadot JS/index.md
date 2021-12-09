@@ -10,7 +10,6 @@ tags: []
 Polkadot.js is a collection of tools that interfaces with the Polkadot blockchain in very granular ways. Polkadot.js as a term has multiple moving parts that are worth mentioning:
 
 
-
 1. **[Polkadot.js UI](https://polkadot.js.org/)**
     1. This is the hosted application that loads when you navigate to in your browser and click apps wallet(hosted). This is also sometimes called “Polkadot-JS App”.
 2. **[Polkadot.js API](https://github.com/polkadot-js/api)**
@@ -30,9 +29,7 @@ In this post I will focus on the UI, a powerful web application that has granula
 
 Among other things, it also allows us to:
 
-
-
-1. Participate in staking, 
+1. Participate in staking
 2. Take part in governance
 3. Contribute to parachain crowdloans 
 4. Run Parachain auctions
